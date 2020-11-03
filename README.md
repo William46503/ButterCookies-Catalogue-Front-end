@@ -1,2 +1,7 @@
-# ButterCookies-Catalogue-Front-end
-Created with CodeSandbox
+# ButterCookies Catalogue
+
+###Tools
+HTML, SCSS, JavaScript
+
+###Framework
+React, Boostrap, MaterialUI, FramerMotion
